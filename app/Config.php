@@ -14,8 +14,8 @@ $pagina = $pagina[2];
 
 const APP_NAME = '...';
 //const APP_URL = $_SERVER['HTTP_HOST'] == 'teste.amzmp.com.br' ? 'https://teste.amzmp.com.br/FelizAmz' : 'https://FelizAmz.com.br';
-//const APP_URL = 'https://teste.amzmp.com.br/FelizAmz';
-const APP_URL = 'http://localhost/FelizAmz';
+const APP_URL = 'https://teste.amzmp.com.br/FelizAmz';
+//const APP_URL = 'http://localhost/FelizAmz';
 
 
 const ASSETS = APP_URL . '/assets/';
