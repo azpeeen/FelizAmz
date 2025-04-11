@@ -91,7 +91,7 @@
           'revistaviva2016.jpg' => 'Revista Viva 2016',
           'redetv.jpg' => 'Visita à RedeTV',
           '19x7.jpg' => '19x7 – Amasso',
-          'celsoportiolli.jpg' => 'Dança gatinho, dança (Sei que isso não é do Portiolli kkk)',
+          'celsoportiolli.jpg' => 'Simplesmente o Celso Portiolli',
           'todahoraehora.jpg' => 'Toda hora é hora de um fifinha',
           'cinepolisehopihari.jpg' => 'Cinépolis e Hopi Hari',
           'diapublicitario.jpg' => 'Dia do Publicitário',
